@@ -6,3 +6,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-08**: feat: add structured logging for debugging and runtime diagnostics
 
+- **2026-05-24**: fix: resolve resource cleanup and graceful connection teardown
+
