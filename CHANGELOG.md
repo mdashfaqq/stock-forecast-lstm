@@ -8,3 +8,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-24**: fix: resolve resource cleanup and graceful connection teardown
 
+- **2026-05-29**: style: format code according to style conventions and lint rules
+
