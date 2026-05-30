@@ -10,3 +10,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-29**: style: format code according to style conventions and lint rules
 
+- **2026-05-30**: refactor: modularize helper functions and improve code readability
+
