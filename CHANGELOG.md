@@ -12,3 +12,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-30**: refactor: modularize helper functions and improve code readability
 
+- **2026-06-06**: perf: cache intermediate computations to eliminate redundant overhead
+
