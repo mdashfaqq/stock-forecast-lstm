@@ -16,3 +16,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-11**: fix: handle null values and prevent potential boundary errors
 
+- **2026-06-12**: docs: add architectural overview notes and component flow details
+
