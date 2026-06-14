@@ -18,3 +18,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-12**: docs: add architectural overview notes and component flow details
 
+- **2026-06-14**: perf: improve response latency and optimize inner execution loops
+
