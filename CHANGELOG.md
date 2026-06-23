@@ -22,3 +22,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-17**: docs: document API schema, sample payloads, and parameters
 
+- **2026-06-23**: feat: initial project setup and core architecture scaffolding
+
