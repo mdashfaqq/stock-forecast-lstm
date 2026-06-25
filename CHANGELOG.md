@@ -24,3 +24,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-23**: feat: initial project setup and core architecture scaffolding
 
+- **2026-06-25**: ci: configure workflow check steps and code validation triggers
+
